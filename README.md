@@ -1,8 +1,6 @@
 <h1>Modulaire controller</h1>  
 
 Klik hier voor het clicksysteem/controller
-Klik hier voor de code
-
 
 Benodigdheden
 - Een willekeurige arduino
