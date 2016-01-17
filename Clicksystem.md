@@ -2,7 +2,7 @@ Fritzing pushbutton
 
 Stap 1 - Solderen push button
 
-
+<a href="#"><img src="http://u.cubeupload.com/NVUnen/20160117153628.jpg"></a>
 <a href="http://u.cubeupload.com/NVUnen/20160117153628.jpg">here</a>
 
 Stap 2 - Lasercutten
