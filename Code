@@ -1,0 +1,89 @@
+//Deze code is geschreven voor 5 knoppen. De 4 pijltjestoetsen en de spatie. Voor andere toetsen kan je kijken op https://www.arduino.cc/en/Reference/KeyboardModifiers. 
+
+
+int inPinUp = 2;
+int inPinLeft = 5;
+int inPinRight = 4;
+int inPinDown = 3;
+int inPinSpace = 6;
+int valUp = 0;
+int valLeft = 0;     
+int valRight = 0;
+int valDown = 0;
+int valSpace = 0;
+char arrowup = KEY_UP_ARROW;
+char arrowleft = KEY_LEFT_ARROW;
+char arrowright = KEY_RIGHT_ARROW;
+char arrowdown = KEY_DOWN_ARROW;
+char space  = 32;
+
+
+void setup() {
+  // put your setup code here, to run once:
+  pinMode(inPinUp, INPUT);
+  pinMode(inPinLeft, INPUT);
+  pinMode(inPinRight, INPUT);
+  pinMode(inPinDown, INPUT);
+  //pinMode(inPinSpace, INPUT);
+  
+  Keyboard.begin();
+}
+
+void loop()  
+{
+  // put your main code here, to run repeatedly:
+  //Code voor pijltje naar boven
+  valUp = digitalRead(inPinUp);
+  Serial.println(valUp);
+  if (valUp == HIGH)
+  {
+    Keyboard.press(arrowup);
+  }
+    else
+  {
+    Keyboard.release(arrowup);
+  }
+  
+  // Code voor pijltje naar links
+  valLeft = digitalRead(inPinLeft);
+  if (valLeft == HIGH)
+  {
+    Keyboard.press(arrowleft);
+  }
+    else
+  {
+    Keyboard.release(arrowleft);
+  }
+  
+  //Code voor pijltje naar rechts
+  valRight = digitalRead(inPinRight);
+  if (valRight == HIGH)
+  {
+    Keyboard.press(arrowright);
+  }
+    else
+  {
+    Keyboard.release(arrowright);
+  }
+  
+  valDown = digitalRead(inPinDown);
+  if (valDown == HIGH)
+  {
+    Keyboard.press(arrowdown);
+  }
+    else
+  {
+    Keyboard.release(arrowdown);
+  }
+     
+  valSpace = digitalRead(inPinSpace);
+  if (valSpace == HIGH)
+  {
+    Keyboard.press(space);
+  }
+    else
+  {
+    Keyboard.release(space);
+  }
+  
+}
