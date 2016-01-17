@@ -1,6 +1,7 @@
 <h1>Modulaire controller</h1>  
 
-<a href="https://github.com/NVUnen/ITTT/blob/master/Clicksystem.md ">Klik hier voor het clicksysteem/controller</a>  
+<a href="https://github.com/NVUnen/ITTT/blob/master/Clicksystem.md">Klik hier voor het clicksysteem/controller</a>   
+<a href="https://github.com/NVUnen/ITTT/blob/master/Code">Klik hier voor de code</a>  
 
 Benodigdheden
 - Een willekeurige arduino
