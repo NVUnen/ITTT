@@ -1,6 +1,5 @@
 <h1>Modulaire controller</h1>  
 
-<p><a href="https://vimeo.com/groups/gamesandinteraction/videos/151684378"><img
 
 <iframe src="https://player.vimeo.com/video/152086918" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/152086918">ITTT - Modulaire controller</a> from <a href="https://vimeo.com/user47934262">Niels van Unen</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
