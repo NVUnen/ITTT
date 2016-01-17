@@ -1,4 +1,4 @@
-Stap 1 - Solderen push button
+Stap 1 - Solderen push button  
 Knip de stripboard in een stuk van 6 bij 5. Soldeer daarna de pushbutton op dezelfde manier zoals te zien is op de afbeeldingen. 
 
 <a href="#"><img src="http://u.cubeupload.com/NVUnen/20160117153628.jpg"></a>
