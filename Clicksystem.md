@@ -8,7 +8,8 @@ Fritzing
 
 Stap 2 - Lasercutten
 Pak een mdf plaat van 3/4mm. Stel de snelheid van de laser af afhankelijk van de dikte van het materiaal. Voor 3 mm moet de snelheid op 12 staan.  
-<a href="#"><img src="http://u.cubeupload.com/NVUnen/PinOmgezet.jpg"></a>
+<a href="#"><img src="http://u.cubeupload.com/NVUnen/PinOmgezet.jpg"></a>  
+
 Stap 3 - Bouwen knop boven
 <a href="#"><img src="http://u.cubeupload.com/NVUnen/fritzing.png"></a>
 
