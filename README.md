@@ -5,7 +5,7 @@
 Benodigdheden
 - Een willekeurige arduino
 - Nodig voor een knop!
-  - Minimaal 1 weerstand 
+  - Minimaal 1 weerstand 220 	&#8486;
   - Minimaal 1 pushbutton
   - Minimaal 5 aansluitdraden
 - 2 x 5 cm metaaldraad
