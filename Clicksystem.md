@@ -3,7 +3,7 @@ Knip de stripboard in een stuk van 6 bij 5. Soldeer daarna de pushbutton op deze
 
 <a href="#"><img src="http://u.cubeupload.com/NVUnen/20160117153628.jpg"></a>
 
-Fritzing
+Fritzing  
 <a href="#"><img src="http://u.cubeupload.com/NVUnen/fritzing.png"></a>
 
 Stap 2 - Lasercutten
