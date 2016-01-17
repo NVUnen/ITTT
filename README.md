@@ -9,7 +9,7 @@ Benodigdheden
 - Nodig voor een knop!
   - Minimaal 1 weerstand 
   - Minimaal 1 pushbutton
-  - Minimaal 3 aansluitdraden
+  - Minimaal 5 aansluitdraden
 - 2 x 5 cm metaaldraad
 - 3mm dikke mdf plaat
 - Usb naar micro-USB kabel
